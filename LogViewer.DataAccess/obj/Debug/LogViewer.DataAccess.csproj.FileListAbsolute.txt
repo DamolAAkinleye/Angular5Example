@@ -1,0 +1,271 @@
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewer\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\Remotion.Linq.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Interactive.Async.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.DataAccess\obj\Debug\LogViewer.DataAccess.csprojResolveAssemblyReference.cache

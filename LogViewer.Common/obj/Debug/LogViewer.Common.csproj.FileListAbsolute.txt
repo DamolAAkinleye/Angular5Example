@@ -1,0 +1,16 @@
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.Common\bin\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.Common\bin\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.Common\obj\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LogViewerVersions\LogViewer.Web\LogViewer.Common\obj\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\bin\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\bin\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\obj\Debug\LogViewer.Common.csprojResolveAssemblyReference.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\obj\Debug\LogViewer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\obj\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror 2Copy\LogViewer.Common\obj\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\bin\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\bin\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\obj\Debug\LogViewer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\obj\Debug\LogViewer.Common.dll
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\obj\Debug\LogViewer.Common.pdb
+C:\Users\Gug\Desktop\LV\LogViewerFullWithCodeMirror4 - Copy\LogViewer.Common\obj\Debug\LogViewer.Common.csprojResolveAssemblyReference.cache
